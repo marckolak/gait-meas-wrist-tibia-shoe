@@ -1,4 +1,4 @@
-# gait-meas-wrist-tibia-shoe
+# Wrist and Tibia/Shoe Mounted IMU Measurement Results for Gait Analysis
 Measurement results for gait analysis registered with wrist, tibia and shoe sensors.
 
 The dataset includes tri-axial acceleration and angular velocity measured during several walks using three gait sensors:
