@@ -13,7 +13,13 @@ The dataset includes tri-axial acceleration and angular velocity measured during
 
 An example how to load the set is in the `example.ipynb` notebook.
 
-# The data are still being gathered and the dataset will soon be updated.
+
+
+**When using the data, please consider also citing the original paper, for which it was collected:**
+
+Kolakowski, M.; Djaja-Josko, V.; Kolakowski, J.; Cichocki, J. Wrist-to-Tibia/Shoe Inertial Measurement Results Translation Using Neural Networks. Sensors 2024, 24, 293. https://doi.org/10.3390/s24010293
+
+### The data are still being gathered and the dataset will soon be updated.
 
 
 This work is licensed under a
